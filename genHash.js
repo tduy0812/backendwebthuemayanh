@@ -1,5 +1,5 @@
 // genHash.js
-const bcrypt = require("bcrypt");
+const bcrypt = require("bcryptjs");
 const pwd = process.argv[2] || "haha";
 const saltRounds = 10;
 bcrypt.hash(pwd, saltRounds)
