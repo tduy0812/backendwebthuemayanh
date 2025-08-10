@@ -1,0 +1,9 @@
+{
+  "users": [
+    {
+      "id": "admin",
+      "email": "hothanhduy07122003@gmail.com",
+      "passwordHash": "$2b$10$i.M70XwmFZZIEhT1YCGiLe2VJQFlkry.KVj/nPEx.FNgt5nvg0jqK"
+    }
+  ]
+}
